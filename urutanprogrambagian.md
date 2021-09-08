@@ -28,7 +28,9 @@ SELESAI PROGRAM
 
 ## BENTUK DALAM BAHASA PEMROGRAMAN C++
  int A;
+ 
  int B;
+ 
  int C;
  
 main() {  
