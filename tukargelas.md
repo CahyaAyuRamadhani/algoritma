@@ -1,10 +1,11 @@
-Algoritma Tukar Gelar
+## Algoritma Tukar Gelar
+
 1. Siapkan gelas Cadangan
 2. Tuangkan Isi gelas teh ke gelas Cadangan
 3. Tuangkan Isi Gelas Kopi ke Gelas Teh
 4. Taungkan Isi Gelas Cadangan Ke Kopi
 
-Bentuk formal algoritma dalam bahasa C
+## Bentuk formal algoritma dalam bahasa C
 
 main() {
   int a;
