@@ -37,6 +37,7 @@ main() {
   B = 20;
   
   C = A * B;
+  
   cout << C
 }
 
