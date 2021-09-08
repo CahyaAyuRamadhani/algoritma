@@ -1,8 +1,8 @@
 Dalam sebuah program itu ada beberapa bagian
 
-bagian informasi tentang program
-Bagian deklarasi
-bagian isi program
+1. bagian informasi tentang program
+2. Bagian deklarasi
+3. bagian isi program
 
 ## BENTUK NOTASI ALGORITMA
 
