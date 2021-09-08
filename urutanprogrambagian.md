@@ -1,10 +1,10 @@
 Dalam sebuah program itu ada beberapa bagian
 
-bagian informasi tentang program
-Bagian deklarasi
-bagian isi program
+1.bagian informasi tentang program
+2.Bagian deklarasi
+3.bagian isi program
 
-BENTUK NOTASI ALGORITMA
+## BENTUK NOTASI ALGORITMA
 
 DEKLARASI
 
@@ -22,7 +22,8 @@ C = A * B
 CETAK(C)
 
 SELESAI PROGRAM
-BENTUK DALAM BAHASA PEMROGRAMAN C++
+
+## BENTUK DALAM BAHASA PEMROGRAMAN C++
  int A;
  int B;
  int C;
@@ -35,7 +36,7 @@ main() {
   cout << C
 }
 
-BENTUK DALAM BAHASA PEMROGRAMAN PHP
+## BENTUK DALAM BAHASA PEMROGRAMAN PHP
 
 $A = 10;
 $B = 20;
