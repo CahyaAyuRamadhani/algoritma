@@ -33,6 +33,7 @@ SELESAI PROGRAM
  
 main() {  
   A = 10;
+  
   B = 20;
   
   C = A * B;
@@ -45,4 +46,5 @@ $A = 10;
 $B = 20;
 
 $C = $A * $B;
+
 echo $C;
