@@ -9,7 +9,9 @@ Dalam sebuah program itu ada beberapa bagian
 DEKLARASI
 
 VAR A TIPENYA INTEGER
+
 VAR B TIPENYA INTEGER
+
 VAR C TIPENYA INTEGER
 
 MULAI PROGRAM
